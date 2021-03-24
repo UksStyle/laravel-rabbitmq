@@ -18,7 +18,7 @@
     }
   ],
   "require": {
-    "php": "^7.4",
+    "php": "^7.4|^8.0",
     "ext-json": "*",
     "illuminate/support": "^8.28",
     "php-amqplib/php-amqplib": "v2.11.0"
